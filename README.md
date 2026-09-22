@@ -4,4 +4,4 @@ Hello there! My name is Kaydin Smith-Cyr. The favourite thing I wrote is my curr
 
  I am in therapy and am told that having a solid 'narrative' about trauma can help with healing. Its important to learn about what I like and learn more about myself outside of other people. I enjoy journaling, my cats, painting, drawing, and learning those are important.
 
-![A journal and a cup of tea sitting in a wooden table.](Tea and Journaling.jpg) 
+![ A journal and a cup of tea sitting in a wooden table. ]( Tea and Journaling.jpg ) 
